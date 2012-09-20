@@ -3,7 +3,7 @@ XKCD Click & Drag - Stitched View
 
 This is a copy of [XKCD 1110][http://xkcd.com/1110/], but with the entire (giant) image stitched together.
 
-You can download the images here.
+You can download the images from the "Output" folder. The original webcomic is [CC BY-NC 2.5][http://xkcd.com/license.html], and this is released under the same license.
 
 Output Types
 ------------
@@ -40,6 +40,3 @@ These show what areas of the image have data. Large portions of the image are in
 
 These are smaller parts of the image stitched together, for convenience.
 
-Suspicious Tile
-------------
-Tile 11s11e appears to be black, and is not adjacent to any drawn tile. I suspect that it may have information hidden in it somehow.
